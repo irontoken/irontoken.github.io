@@ -737,8 +737,8 @@ header .logo a {
 	}
 	header .logo a {
 		width: 247px;
-		height: 63px;
-		background-size: 247px 63px;
+		height: 247px;
+		background-size: 247px auto;
 	}
 }
 @media only screen and (max-width:768px) {
@@ -748,8 +748,8 @@ header .logo a {
 	}
 	header .logo a {
 		width: 235px;
-		height: 60px;
-		background-size: 235px 60px;
+		height: 235px;
+		background-size: 235px auto;
 	}
 }
 @media only screen and (max-width:600px) {
@@ -758,8 +758,8 @@ header .logo a {
 	}
 	header .logo a {
 		width: 212px;
-		height: 54px;
-		background-size: 212px 54px;
+		height: 212px;
+		background-size: 212px auto;
 	}
 }
 @media only screen and (max-width:400px) {
@@ -769,8 +769,8 @@ header .logo a {
 	}
 	header .logo a {
 		width: 165px;
-		height: 42px;
-		background-size: 165px 42px;
+		height: 165px;
+		background-size: 165px auto;
 	}
 }
 
